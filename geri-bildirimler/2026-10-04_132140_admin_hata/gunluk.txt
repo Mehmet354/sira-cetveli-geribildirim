@@ -1,0 +1,300 @@
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\cekirdek\eslestirme.py", line 193, in eslestir
+    raise ValueError(f"Elle bağlama: {no} numaralı takyidat satırı yok")
+ValueError: Elle bağlama: 31 numaralı takyidat satırı yok
+
+2026-09-23 17:48:28,856 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 17:48:28,860 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 17:51:00,890 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 17:51:00,895 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 18:15:50,991 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 18:15:50,995 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 18:32:01,585 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 18:32:01,590 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 18:49:07,434 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 18:49:07,438 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 18:55:41,771 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 18:55:41,777 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 18:58:55,044 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 18:58:55,049 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 19:11:39,774 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 19:11:39,779 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 19:25:22,652 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 19:25:22,657 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 19:43:40,688 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 19:43:40,692 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 19:45:58,077 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 19:45:58,083 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 19:58:29,424 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 19:58:29,428 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-23 20:18:37,681 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-23 20:18:37,691 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 07:39:21,843 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 07:39:21,855 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 18:31:27,628 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 18:31:27,639 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:10:26,292 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:10:26,299 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:16:09,216 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:16:09,221 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:18:05,738 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:18:05,743 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:19:54,563 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:19:54,567 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:20:12,877 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:20:12,884 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\Program\SiraCetveli yerel_var=False makine_var=True ilk_kez=False yetkili=False sebep=Programın kayıt dosyası silinmiş ya da değiştirilmiş.
+2026-09-24 20:28:08,846 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:28:08,852 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:40:03,244 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:40:03,249 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:46:49,161 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:46:49,165 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 20:59:49,945 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 20:59:49,949 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 21:16:11,422 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 21:16:11,428 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 21:18:50,839 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 21:18:50,843 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-24 21:22:38,698 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-24 21:22:38,702 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 19:05:18,669 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 19:05:18,675 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 19:13:08,739 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 19:13:08,744 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 19:26:39,490 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 19:26:39,495 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 19:40:16,443 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 19:40:16,448 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 19:54:03,862 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 19:54:03,867 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 20:04:36,132 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 20:04:36,137 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 20:10:37,610 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 20:10:37,614 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-25 20:14:59,234 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-25 20:14:59,238 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 11:14:27,672 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 11:14:27,685 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 11:43:11,467 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 11:43:11,479 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 12:01:33,048 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 12:01:33,052 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 12:17:06,324 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 12:17:06,329 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 14:50:51,890 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 14:50:51,894 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-26 18:48:51,542 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-26 18:48:51,548 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-27 21:41:12,580 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-27 21:41:12,585 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-27 21:45:38,652 ERROR sira_cetveli: Yakalanmamış hata
+Traceback (most recent call last):
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\arayuz\ana_pencere.py", line 993, in takyidat_ekle
+    self.takyidat_dosyasini_ekle(Path(yol))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\arayuz\ana_pencere.py", line 1009, in takyidat_dosyasini_ekle
+    self.islem(M.TAKYIDAT_EKLENDI, lambda: sonuc.update(s=ps.takyidat_ekle(self.proje, yol, self.sozluk,
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                                            self.ayarlar)))
+                                                                            ^^^^^^^^^^^^^^^
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\arayuz\ana_pencere.py", line 558, in islem
+    sonuc = self.yigin_komut.yap(self.proje, ad, islev)
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\servis\komutlar.py", line 49, in yap
+    sonuc = islev()
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\arayuz\ana_pencere.py", line 1009, in <lambda>
+    self.islem(M.TAKYIDAT_EKLENDI, lambda: sonuc.update(s=ps.takyidat_ekle(self.proje, yol, self.sozluk,
+                                                          ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                                            self.ayarlar)))
+                                                                            ^^^^^^^^^^^^^
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\servis\proje_servisi.py", line 676, in takyidat_ekle
+    yeniden_hesapla(proje, sozluk, ayarlar)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\servis\proje_servisi.py", line 502, in yeniden_hesapla
+    _eslestir_ve_blokla(proje, sozluk, ayarlar, ilk=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\servis\proje_servisi.py", line 257, in _eslestir_ve_blokla
+    sonuc = eslestir(proje.takyidat, proje.cevaplar, sozluk.tur_ekleri, proje.devirler, proje.elle_baglamalar)
+  File "C:\Users\Mehmet\Desktop\Sıra Cetveli Yap\sira_cetveli\cekirdek\eslestirme.py", line 208, in eslestir
+    raise ValueError(f"Elle bağlama: {no} numaralı takyidat satırı yok")
+ValueError: Elle bağlama: 4 numaralı takyidat satırı yok
+
+2026-09-29 20:10:39,331 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 20:10:39,344 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 20:42:05,899 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 20:42:05,904 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 20:45:47,982 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 20:45:47,988 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 20:54:14,130 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 20:54:14,134 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 20:57:19,046 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 20:57:19,051 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 21:08:29,258 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 21:08:29,261 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 21:12:44,909 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 21:12:44,914 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 21:52:57,738 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 21:52:57,743 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 22:35:45,170 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 22:35:45,174 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 22:41:40,888 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 22:41:40,892 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-29 22:48:10,960 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-29 22:48:10,964 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-09-30 07:53:42,236 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-09-30 07:53:42,248 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 05:40:08,067 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 05:40:08,079 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 05:43:14,600 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 05:43:14,605 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 06:08:50,763 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 06:08:50,791 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 06:13:29,840 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 06:13:29,845 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 06:27:19,971 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 06:27:19,975 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 07:01:02,856 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 07:01:02,861 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 07:04:12,267 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 07:04:12,271 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 07:08:38,981 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 07:08:38,985 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 07:11:41,559 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 07:11:41,564 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 17:52:07,701 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 17:52:07,713 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 18:05:45,847 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 18:05:45,852 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 18:06:08,459 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 18:06:08,463 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 18:57:47,097 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 18:57:47,108 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 19:05:43,194 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 19:05:43,198 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 19:13:28,833 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 19:13:28,838 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 19:19:51,187 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 19:19:51,192 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 19:39:35,160 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 19:39:35,164 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 19:46:33,951 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 19:46:33,956 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-01 20:02:29,329 INFO sira_cetveli.kilit: öz sınama: pbkdf2=b95de58f7646da3b beklenen=b95de58f7646da3b sonuc=True
+2026-10-01 20:02:29,334 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True sebep=-
+2026-10-03 11:13:00,233 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=yok sebep=-
+2026-10-03 11:19:25,325 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=yok sebep=-
+2026-10-03 11:19:34,224 INFO sira_cetveli.lisans: yetkilendirme reddedildi (şifre)
+2026-10-03 11:32:58,752 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=yok sebep=-
+2026-10-03 11:33:03,647 INFO sira_cetveli.yonetici: yönetici şifresi denemesi: uzunluk=10 sonuc=True
+2026-10-03 11:33:03,800 INFO sira_cetveli.lisans: damga yazılıyor: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap cagri=calistir:52 <- kilit_kontrol:172 <- _dene:96 <- yetkilendir:249
+2026-10-03 11:33:03,803 INFO sira_cetveli.lisans: bilgisayar yetkilendirildi (hesap=admin2)
+2026-10-03 11:33:13,094 INFO sira_cetveli.hesaplar: hatalı giriş denemesi: ad=mehmet sayi=1
+2026-10-03 11:38:58,274 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:01:17,957 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:01:27,805 INFO sira_cetveli.hesaplar: hatalı giriş denemesi: ad=admin sayi=1
+2026-10-03 12:01:53,028 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:02:00,214 INFO sira_cetveli.hesaplar: hatalı giriş denemesi: ad=admin sayi=2
+2026-10-03 12:15:17,373 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:15:23,660 INFO sira_cetveli.hesaplar: hatalı giriş denemesi: ad=admin sayi=3
+2026-10-03 12:15:24,456 INFO sira_cetveli.yonetici: yönetici şifresi denemesi: uzunluk=13 sonuc=True
+2026-10-03 12:25:30,642 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:32:18,863 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 12:44:41,282 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 13:36:51,390 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 13:59:34,945 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 13:59:43,221 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 13:59:48,674 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 13:59:48,681 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 13:59:48,983 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 14:16:33,932 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=False makine_var=True ilk_kez=False yetkili=False kayit=tamam sebep=Programın kayıt dosyası silinmiş ya da değiştirilmiş.
+2026-10-03 14:16:56,072 INFO sira_cetveli.yonetici: yönetici şifresi denemesi: uzunluk=13 sonuc=True
+2026-10-03 14:16:56,202 INFO sira_cetveli.lisans: damga yazılıyor: kok=C:\Users\Mehmet\Desktop\SC_Deneme cagri=kilit_kontrol:299 <- _dene:227 <- _yetkilendir:267 <- yetkilendir:249
+2026-10-03 14:16:56,206 INFO sira_cetveli.lisans: bilgisayar yetkilendirildi (hesap=admin)
+2026-10-03 14:16:56,937 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 14:19:41,838 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 14:19:41,845 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 14:19:42,367 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 14:19:46,064 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 14:19:46,071 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 14:19:46,360 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 14:24:59,687 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 14:24:59,693 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 14:25:00,234 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 14:30:08,496 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 14:30:08,506 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 14:30:09,060 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 15:02:32,674 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 15:02:32,681 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 15:02:33,238 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 19:46:00,880 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 19:46:00,888 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 19:46:01,408 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 19:47:30,286 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 19:47:36,901 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:07:14,281 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 21:07:14,287 INFO sira_cetveli.kilit: açık oturumla giriş: Ali
+2026-10-03 21:07:14,986 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:07:27,540 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 21:07:40,789 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:10:41,661 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 21:10:41,669 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 21:10:42,152 INFO sira_cetveli.guvenlik: güvenlik paket listesi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:10:42,505 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:51:16,439 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 21:51:16,445 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 21:51:16,938 INFO sira_cetveli.guvenlik: güvenlik paket listesi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:51:17,318 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 21:51:53,543 INFO sira_cetveli.yayin: güvenlik paketi GitHub'a gönderildi: guvenlik-1791053508.scguvenlik (Mehmet354/sira-cetveli-guncelleme)
+2026-10-03 21:52:37,215 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 21:52:37,221 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 21:52:37,828 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 22:04:26,609 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 22:04:26,615 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 22:04:27,310 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 22:04:36,357 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 22:04:41,561 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 22:05:10,913 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\Sıra Cetveli Yap yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 22:05:21,393 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 22:05:21,398 INFO sira_cetveli.guvenlik: güvenlik paketi uygulandı: sira=1791053508 uygulanan=['Ali: kullanıcı güncellendi (Kullanıcı)'] atlanan=[]
+2026-10-03 22:06:02,911 INFO sira_cetveli.yayin: güvenlik paketi GitHub'a gönderildi: guvenlik-1791054358.scguvenlik (Mehmet354/sira-cetveli-guncelleme)
+2026-10-03 22:06:12,790 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 22:06:12,797 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-03 22:06:13,380 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-03 22:06:20,913 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-03 22:06:27,160 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 11:30:02,962 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 11:30:14,043 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 11:30:18,900 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 11:30:18,908 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 11:30:20,206 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 11:30:20,213 INFO sira_cetveli.guvenlik: güvenlik paketi uygulandı: sira=1791054358 uygulanan=['Yasin: kullanıcı güncellendi (Kullanıcı)'] atlanan=[]
+2026-10-04 11:40:26,294 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 11:53:56,131 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 11:53:56,138 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 11:53:57,012 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 11:54:01,418 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 11:54:01,426 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 11:54:01,870 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:04:04,863 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:14:04,917 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:43:29,556 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 12:43:29,563 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 12:43:30,657 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:43:35,418 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 12:43:35,424 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 12:43:35,870 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:55:36,463 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 12:55:36,469 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 12:55:37,289 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 12:55:41,775 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 12:55:41,782 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 12:55:42,257 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 13:05:43,630 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 13:15:43,604 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 13:20:34,939 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 13:20:34,945 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 13:20:35,881 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 13:20:40,354 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 13:20:40,362 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 13:20:40,823 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
+2026-10-04 13:21:09,282 INFO sira_cetveli.kilit: kilit[acilis]: kok=C:\Users\Mehmet\Desktop\SC_Deneme yerel_var=True makine_var=True ilk_kez=False yetkili=True kayit=tamam sebep=-
+2026-10-04 13:21:09,289 INFO sira_cetveli.kilit: açık oturumla giriş: admin
+2026-10-04 13:21:09,741 INFO sira_cetveli.guvenlik: internet güvenlik paketi alınamadı (https://github.com/Mehmet354/sira-cetveli-guncelleme/releases/download/guvenlik): HTTP Error 404: Not Found
