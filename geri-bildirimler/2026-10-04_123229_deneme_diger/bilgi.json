@@ -1,0 +1,20 @@
+{
+  "tur": "diger",
+  "baslik": "DENEME - lütfen yok sayın",
+  "aciklama": "Geliştirme sırasında yapılan gönderim denemesi.",
+  "iletisim": "",
+  "tarih": "04/10/2026 12:32",
+  "gonderen": {
+    "hesap": "deneme",
+    "rol": "yonetici"
+  },
+  "sistem": {
+    "program_surumu": "1.38.3",
+    "bilgisayar": "DESKTOP-JU5GMI0",
+    "windows_kullanicisi": "Mehmet",
+    "isletim_sistemi": "Windows-11-10.0.26200-SP0"
+  },
+  "ekler": [
+    "01_deneme_ek.txt"
+  ]
+}
