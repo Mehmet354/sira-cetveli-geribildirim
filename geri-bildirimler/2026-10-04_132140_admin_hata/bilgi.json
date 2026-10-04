@@ -1,0 +1,20 @@
+{
+  "tur": "hata",
+  "baslik": "LAN PROĞRAM ÇÖKÜYOR AMICIUK",
+  "aciklama": "YAPTIN LAN PROĞRAMA AMUCUK",
+  "iletisim": "",
+  "tarih": "04/10/2026 13:21",
+  "gonderen": {
+    "hesap": "admin",
+    "rol": "yonetici"
+  },
+  "sistem": {
+    "program_surumu": "1.38.6",
+    "bilgisayar": "DESKTOP-JU5GMI0",
+    "windows_kullanicisi": "Mehmet",
+    "isletim_sistemi": "Windows-11-10.0.26200-SP0"
+  },
+  "ekler": [
+    "01_55.udf"
+  ]
+}
