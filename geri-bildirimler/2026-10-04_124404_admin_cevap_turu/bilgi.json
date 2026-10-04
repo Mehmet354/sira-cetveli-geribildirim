@@ -1,0 +1,20 @@
+{
+  "tur": "cevap_turu",
+  "baslik": "Amucuk",
+  "aciklama": "he la nedem bilemim ki",
+  "iletisim": "",
+  "tarih": "04/10/2026 12:44",
+  "gonderen": {
+    "hesap": "admin",
+    "rol": "yonetici"
+  },
+  "sistem": {
+    "program_surumu": "1.38.4",
+    "bilgisayar": "DESKTOP-JU5GMI0",
+    "windows_kullanicisi": "Mehmet",
+    "isletim_sistemi": "Windows-11-10.0.26200-SP0"
+  },
+  "ekler": [
+    "01_55.udf"
+  ]
+}
