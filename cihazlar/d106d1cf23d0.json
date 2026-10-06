@@ -1,0 +1,39 @@
+{
+ "bicim": 1,
+ "kimlik": "d106d1cf23d0",
+ "ad": "DESKTOP-JU5GMI0",
+ "surum": "1.38.10",
+ "son_gorulme": "2026-10-06T18:28:46",
+ "guvenlik_sira": 1791054358,
+ "super_admin": false,
+ "kullanicilar": [
+  {
+   "ad": "admin",
+   "rol": "yonetici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  },
+  {
+   "ad": "admin2",
+   "rol": "yonetici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  },
+  {
+   "ad": "Ali",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  },
+  {
+   "ad": "Yasin",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  }
+ ]
+}
