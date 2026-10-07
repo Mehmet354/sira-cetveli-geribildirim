@@ -3,9 +3,9 @@
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
  "surum": "1.38.13",
- "son_gorulme": "2026-10-07T08:32:22",
- "guvenlik_sira": 1791301480,
- "super_admin": false,
+ "son_gorulme": "2026-10-07T09:13:22",
+ "guvenlik_sira": 1791351954,
+ "super_admin": true,
  "kullanicilar": [
   {
    "ad": "admin",
@@ -13,6 +13,13 @@
    "aktif": true,
    "son_giris": "",
    "gecici_sifre": false
+  },
+  {
+   "ad": "Ali",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": true
   }
  ]
 }
