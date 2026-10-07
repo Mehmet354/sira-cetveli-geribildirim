@@ -1,0 +1,18 @@
+{
+ "bicim": 1,
+ "kimlik": "a4735f20bb2f",
+ "ad": "ab03400-1897",
+ "surum": "1.38.13",
+ "son_gorulme": "2026-10-07T08:32:22",
+ "guvenlik_sira": 1791301480,
+ "super_admin": false,
+ "kullanicilar": [
+  {
+   "ad": "admin",
+   "rol": "yonetici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  }
+ ]
+}
