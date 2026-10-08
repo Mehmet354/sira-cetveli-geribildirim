@@ -2,8 +2,8 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.38.15",
- "son_gorulme": "2026-10-08T17:52:48",
+ "surum": "1.38.16",
+ "son_gorulme": "2026-10-08T20:02:35",
  "guvenlik_sira": 1791351954,
  "super_admin": true,
  "kullanicilar": [
@@ -28,5 +28,6 @@
    "son_giris": "",
    "gecici_sifre": true
   }
- ]
+ ],
+ "guncelleme_hatasi": {}
 }
