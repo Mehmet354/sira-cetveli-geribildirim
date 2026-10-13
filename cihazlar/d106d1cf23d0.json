@@ -3,7 +3,7 @@
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
  "surum": "1.38.19",
- "son_gorulme": "2026-10-13T18:16:20",
+ "son_gorulme": "2026-10-13T19:30:02",
  "guvenlik_sira": 1791351954,
  "super_admin": true,
  "kullanicilar": [
@@ -29,5 +29,6 @@
    "gecici_sifre": true
   }
  ],
- "guncelleme_hatasi": {}
+ "guncelleme_hatasi": {},
+ "guncelleme_gecmisi": []
 }
