@@ -3,7 +3,7 @@
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
  "surum": "1.38.17",
- "son_gorulme": "2026-10-13T08:20:52",
+ "son_gorulme": "2026-10-13T08:39:14",
  "guvenlik_sira": 1791351954,
  "super_admin": true,
  "kullanicilar": [
@@ -22,5 +22,9 @@
    "gecici_sifre": true
   }
  ],
- "guncelleme_hatasi": {}
+ "guncelleme_hatasi": {
+  "zaman": "2026-10-13T08:38:21",
+  "hedef": "1.38.19",
+  "hata": "[WinError 5] Erişim engellendi: 'C:\\\\Users\\\\ab218238\\\\Desktop\\\\Sıra Cetveli Yap\\\\surumler\\\\1.38.19.kur' -> 'C:\\\\Users\\\\ab218238\\\\Desktop\\\\Sıra Cetveli Yap\\\\surumler\\\\1.38.19'"
+ }
 }
