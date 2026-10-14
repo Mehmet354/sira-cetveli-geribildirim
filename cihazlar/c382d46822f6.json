@@ -1,0 +1,27 @@
+{
+ "bicim": 1,
+ "kimlik": "c382d46822f6",
+ "ad": "AB03400-1234",
+ "surum": "1.38.21",
+ "son_gorulme": "2026-10-14T09:36:42",
+ "guvenlik_sira": 1791351954,
+ "super_admin": false,
+ "kullanicilar": [
+  {
+   "ad": "admin",
+   "rol": "yonetici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": false
+  },
+  {
+   "ad": "Ali",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "",
+   "gecici_sifre": true
+  }
+ ],
+ "guncelleme_hatasi": {},
+ "guncelleme_gecmisi": []
+}
