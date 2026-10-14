@@ -2,8 +2,8 @@
  "bicim": 1,
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
- "surum": "1.38.19",
- "son_gorulme": "2026-10-14T08:42:38",
+ "surum": "1.38.21",
+ "son_gorulme": "2026-10-14T08:46:40",
  "guvenlik_sira": 1791351954,
  "super_admin": true,
  "kullanicilar": [
@@ -22,5 +22,6 @@
    "gecici_sifre": true
   }
  ],
- "guncelleme_hatasi": {}
+ "guncelleme_hatasi": {},
+ "guncelleme_gecmisi": []
 }
