@@ -3,7 +3,9 @@
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
  "surum": "1.38.30",
- "son_gorulme": "2026-10-25T08:53:59",
+ "isletim_sistemi": "Windows-11-10.0.26200-SP0",
+ "bilgisayar_izinleri": {},
+ "son_gorulme": "2026-10-25T09:03:23",
  "guvenlik_sira": 1791964814,
  "super_admin": true,
  "kullanicilar": [
@@ -12,21 +14,24 @@
    "rol": "yonetici",
    "aktif": true,
    "son_giris": "",
-   "gecici_sifre": false
+   "gecici_sifre": false,
+   "izinler": {}
   },
   {
    "ad": "admin2",
    "rol": "yonetici",
    "aktif": true,
    "son_giris": "2026-10-06T19:43:57",
-   "gecici_sifre": false
+   "gecici_sifre": false,
+   "izinler": {}
   },
   {
    "ad": "Ali",
    "rol": "kullanici",
    "aktif": true,
    "son_giris": "",
-   "gecici_sifre": true
+   "gecici_sifre": true,
+   "izinler": {}
   }
  ],
  "guncelleme_hatasi": {},
