@@ -2,8 +2,10 @@
  "bicim": 1,
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
- "surum": "1.38.30",
- "son_gorulme": "2026-10-26T08:36:28",
+ "surum": "1.39.0",
+ "isletim_sistemi": "Windows-11-10.0.26100-SP0",
+ "bilgisayar_izinleri": {},
+ "son_gorulme": "2026-10-26T08:38:13",
  "guvenlik_sira": 1791964814,
  "super_admin": true,
  "kullanicilar": [
@@ -12,14 +14,16 @@
    "rol": "yonetici",
    "aktif": true,
    "son_giris": "",
-   "gecici_sifre": false
+   "gecici_sifre": false,
+   "izinler": {}
   },
   {
    "ad": "Ali",
    "rol": "kullanici",
    "aktif": true,
    "son_giris": "",
-   "gecici_sifre": true
+   "gecici_sifre": true,
+   "izinler": {}
   }
  ],
  "guncelleme_hatasi": {},
