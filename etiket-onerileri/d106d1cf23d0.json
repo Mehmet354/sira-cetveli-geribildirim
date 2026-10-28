@@ -23,12 +23,6 @@
    "zaman": "2026-10-28T17:39:58"
   },
   {
-   "yazim": "KESİN HACİZ TAR.",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T17:39:58"
-  },
-  {
    "yazim": "HAC.TARH",
    "alan": "HACIZ_TARIHI",
    "kaynak": "elle_atama",
@@ -41,6 +35,12 @@
    "kaynak": "elle_atama",
    "zaman": "2026-10-28T17:40:19",
    "deger": "İLAMSIZ TAKİP"
+  },
+  {
+   "yazim": "KESİN HACİZ TAR",
+   "alan": "KESINLESME",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:40:31"
   }
  ]
 }
