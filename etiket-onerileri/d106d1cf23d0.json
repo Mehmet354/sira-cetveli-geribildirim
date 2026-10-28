@@ -11,6 +11,12 @@
    "zaman": "2026-10-28T23:38:31"
   },
   {
+   "yazim": "TEPLİGAT TARİHİ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T23:38:31"
+  },
+  {
    "yazim": "SATILAN MAHCUZ",
    "alan": null,
    "kaynak": "tanimadi",
@@ -59,17 +65,18 @@
    "sozlukte": "HACIZ_KARAR_TARIHI"
   },
   {
-   "yazim": "TEPLİGAT TARİHİ",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T23:38:31"
-  },
-  {
    "yazim": "Alacak kalemi",
    "alan": "BORC_MIKTARI",
    "kaynak": "elle_atama",
    "zaman": "2026-10-28T23:38:58",
    "deger": "6.642,04 TL"
+  },
+  {
+   "yazim": "TEPLİGAT TARİHİ",
+   "alan": "TEBLIG_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T23:39:45",
+   "deger": "20/08/2025"
   }
  ],
  "takyidat": []
