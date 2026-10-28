@@ -5,6 +5,12 @@
  "surum": "1.45.4",
  "oneriler": [
   {
+   "yazim": "Alacak kalemi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T23:38:31"
+  },
+  {
    "yazim": "SATILAN MAHCUZ",
    "alan": null,
    "kaynak": "tanimadi",
@@ -53,16 +59,17 @@
    "sozlukte": "HACIZ_KARAR_TARIHI"
   },
   {
-   "yazim": "Alacak kalemi",
+   "yazim": "TEPLİGAT TARİHİ",
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-28T23:38:31"
   },
   {
-   "yazim": "TEPLİGAT TARİHİ",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T23:38:31"
+   "yazim": "Alacak kalemi",
+   "alan": "BORC_MIKTARI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T23:38:58",
+   "deger": "6.642,04 TL"
   }
  ],
  "takyidat": []
