@@ -2,13 +2,43 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.43.0",
+ "surum": "1.44.0",
  "oneriler": [
   {
    "yazim": "SATILAN MAHCUZ",
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-28T16:07:51"
+  },
+  {
+   "yazim": "Borçluya tebliğ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T17:39:58"
+  },
+  {
+   "yazim": "Alacak tutarı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T17:39:58"
+  },
+  {
+   "yazim": "KESİN HACİZ TAR.",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T17:39:58"
+  },
+  {
+   "yazim": "HAC.TARH.",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T17:39:58"
+  },
+  {
+   "yazim": "DAYANDIĞI",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T17:39:58"
   }
  ]
 }
