@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.1",
+ "surum": "1.45.2",
  "oneriler": [
   {
    "yazim": "SATILAN MAHCUZ",
@@ -43,6 +43,14 @@
    "kaynak": "elle_atama",
    "zaman": "2026-10-28T17:48:48",
    "deger": "6.642,04 TL"
+  },
+  {
+   "yazim": "Haciz Karar Tarihi",
+   "alan": "HACIZ_TARIHI",
+   "kaynak": "elle_duzeltme",
+   "zaman": "2026-10-28T21:32:48",
+   "deger": "03.08.2026",
+   "sozlukte": "HACIZ_KARAR_TARIHI"
   }
  ],
  "takyidat": []
