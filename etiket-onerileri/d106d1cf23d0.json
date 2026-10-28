@@ -29,16 +29,17 @@
    "zaman": "2026-10-28T17:39:58"
   },
   {
-   "yazim": "HAC.TARH.",
+   "yazim": "DAYANDIĞI",
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-28T17:39:58"
   },
   {
-   "yazim": "DAYANDIĞI",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T17:39:58"
+   "yazim": "HAC.TARH",
+   "alan": "HACIZ_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:40:06",
+   "deger": "13/08/2026"
   }
  ]
 }
