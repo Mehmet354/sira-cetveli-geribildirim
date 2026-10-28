@@ -5,12 +5,6 @@
  "surum": "1.45.2",
  "oneriler": [
   {
-   "yazim": "SATILAN MAHCUZ",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T16:07:51"
-  },
-  {
    "yazim": "HAC.TARH",
    "alan": "HACIZ_TARIHI",
    "kaynak": "elle_atama",
@@ -45,10 +39,16 @@
    "deger": "6.642,04 TL"
   },
   {
+   "yazim": "SATILAN MAHCUZ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T16:07:51"
+  },
+  {
    "yazim": "Haciz Karar Tarihi",
    "alan": "HACIZ_TARIHI",
    "kaynak": "elle_duzeltme",
-   "zaman": "2026-10-28T21:32:48",
+   "zaman": "2026-10-28T21:36:29",
    "deger": "03.08.2026",
    "sozlukte": "HACIZ_KARAR_TARIHI"
   }
