@@ -230,6 +230,15 @@
    "zaman": "2026-10-29T15:45:58",
    "deger": "25.05.2026",
    "ekran": "3452b31ce4e9f67e"
+  },
+  {
+   "yazim": "Açılış Tarihi",
+   "alan": "MUSTENIDAT",
+   "kaynak": "elle_duzeltme",
+   "zaman": "2026-10-29T15:46:10",
+   "deger": "Örnek 7",
+   "sozlukte": "TAKIP_TARIHI",
+   "ekran": "86cf48a9e40f0938"
   }
  ],
  "takyidat": []
