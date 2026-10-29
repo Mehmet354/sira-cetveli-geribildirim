@@ -156,6 +156,12 @@
    "zaman": "2026-10-29T13:42:52"
   },
   {
+   "yazim": "Killer on the road",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T15:45:50"
+  },
+  {
    "yazim": "SATILAN MAHCUZ",
    "alan": null,
    "kaynak": "tanimadi",
@@ -219,9 +225,11 @@
   },
   {
    "yazim": "Killer on the road",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-29T15:45:50"
+   "alan": "TAKIP_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-29T15:45:58",
+   "deger": "25.05.2026",
+   "ekran": "3452b31ce4e9f67e"
   }
  ],
  "takyidat": []
