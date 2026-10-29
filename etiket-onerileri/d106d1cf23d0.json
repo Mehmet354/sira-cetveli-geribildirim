@@ -17,12 +17,6 @@
    "zaman": "2026-10-28T23:38:31"
   },
   {
-   "yazim": "SATILAN MAHCUZ",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T16:07:51"
-  },
-  {
    "yazim": "HAC.TARH",
    "alan": "HACIZ_TARIHI",
    "kaynak": "elle_atama",
@@ -57,14 +51,6 @@
    "deger": "6.642,04 TL"
   },
   {
-   "yazim": "Haciz Karar Tarihi",
-   "alan": "HACIZ_TARIHI",
-   "kaynak": "elle_duzeltme",
-   "zaman": "2026-10-28T21:32:48",
-   "deger": "03.08.2026",
-   "sozlukte": "HACIZ_KARAR_TARIHI"
-  },
-  {
    "yazim": "Alacak kalemi",
    "alan": "BORC_MIKTARI",
    "kaynak": "elle_atama",
@@ -77,6 +63,140 @@
    "kaynak": "elle_atama",
    "zaman": "2026-10-28T23:39:45",
    "deger": "20/08/2025"
+  },
+  {
+   "yazim": "SATILAN MAHCUZ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T16:07:51"
+  },
+  {
+   "yazim": "Haciz Karar Tarihi",
+   "alan": "HACIZ_TARIHI",
+   "kaynak": "elle_duzeltme",
+   "zaman": "2026-10-28T21:36:29",
+   "deger": "03.08.2026",
+   "sozlukte": "HACIZ_KARAR_TARIHI"
+  },
+  {
+   "yazim": "Cüneytbey Mahallesi Saha Sokak Kno",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Dairemiz haciz bildiri numarası",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Ünvan",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Açıklama",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "DAĞITIM GEREĞİ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Tahsilatı Yapan Birim",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Müdürlüğünüze gönderilen toplam tahsilat",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "TAKYİDATTA YER ALAN HACİZ ALACAKLILARI",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "RECEP YAŞAR",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Dosya No / Türü",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Sorgulayan Kişi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Şerh Sayısı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "İcrai Haciz",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "İhtiyati Haciz",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "yazıları ile. Borç",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "ile. Borç",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Kamu Haczi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Yazısı sayılı yazıları ile. Borç",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Karar Tarihi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "İşlemi Yapacak Personel",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T11:08:23"
   }
  ],
  "takyidat": []
