@@ -203,6 +203,13 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-29T13:25:24"
+  },
+  {
+   "yazim": "mükellefin vadesi geçmiş",
+   "alan": "BORC_MIKTARI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-29T13:25:58",
+   "deger": "11.909.704,99"
   }
  ],
  "takyidat": []
