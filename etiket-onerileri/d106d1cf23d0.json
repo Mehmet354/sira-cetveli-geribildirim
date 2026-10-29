@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.4",
+ "surum": "1.45.5",
  "oneriler": [
   {
    "yazim": "Alacak kalemi",
@@ -197,6 +197,12 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-29T11:08:23"
+  },
+  {
+   "yazim": "Sıra cetveli",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-29T13:25:24"
   }
  ],
  "takyidat": []
