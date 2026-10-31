@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.7",
+ "surum": "1.45.8",
  "oneriler": [
   {
    "yazim": "Alacak kalemi",
@@ -15,6 +15,85 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-28T23:38:31"
+  },
+  {
+   "yazim": "HAC.TARH",
+   "alan": "HACIZ_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:40:06",
+   "deger": "13/08/2026"
+  },
+  {
+   "yazim": "DAYANDIĞI",
+   "alan": "MUSTENIDAT",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:40:19",
+   "deger": "İLAMSIZ TAKİP"
+  },
+  {
+   "yazim": "KESİN HACİZ TAR",
+   "alan": "KESINLESME",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:40:31"
+  },
+  {
+   "yazim": "Borçluya tebliğ",
+   "alan": "TEBLIG_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:44:25",
+   "deger": "11.06.2026"
+  },
+  {
+   "yazim": "Alacak tutarı",
+   "alan": "BORC_MIKTARI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T17:48:48",
+   "deger": "6.642,04 TL"
+  },
+  {
+   "yazim": "Alacak kalemi",
+   "alan": "BORC_MIKTARI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T23:38:58",
+   "deger": "6.642,04 TL"
+  },
+  {
+   "yazim": "TEPLİGAT TARİHİ",
+   "alan": "TEBLIG_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-28T23:39:45",
+   "deger": "20/08/2025"
+  },
+  {
+   "yazim": "Killer on the road",
+   "alan": "TAKIP_TARIHI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-10-29T15:45:58",
+   "deger": "25.05.2026",
+   "ekran": "3452b31ce4e9f67e"
+  },
+  {
+   "yazim": "Açılış Tarihi",
+   "alan": "MUSTENIDAT",
+   "kaynak": "elle_duzeltme",
+   "zaman": "2026-10-29T15:46:10",
+   "deger": "Örnek 7",
+   "sozlukte": "TAKIP_TARIHI",
+   "ekran": "86cf48a9e40f0938"
+  },
+  {
+   "yazim": "SATILAN MAHCUZ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-10-28T16:07:51"
+  },
+  {
+   "yazim": "Haciz Karar Tarihi",
+   "alan": "HACIZ_TARIHI",
+   "kaynak": "elle_duzeltme",
+   "zaman": "2026-10-28T21:36:29",
+   "deger": "03.08.2026",
+   "sozlukte": "HACIZ_KARAR_TARIHI"
   },
   {
    "yazim": "Cüneytbey Mahallesi Saha Sokak Kno",
@@ -159,86 +238,7 @@
    "yazim": "Killer on the road",
    "alan": null,
    "kaynak": "tanimadi",
-   "zaman": "2026-10-29T15:45:50"
-  },
-  {
-   "yazim": "SATILAN MAHCUZ",
-   "alan": null,
-   "kaynak": "tanimadi",
-   "zaman": "2026-10-28T16:07:51"
-  },
-  {
-   "yazim": "HAC.TARH",
-   "alan": "HACIZ_TARIHI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T17:40:06",
-   "deger": "13/08/2026"
-  },
-  {
-   "yazim": "DAYANDIĞI",
-   "alan": "MUSTENIDAT",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T17:40:19",
-   "deger": "İLAMSIZ TAKİP"
-  },
-  {
-   "yazim": "KESİN HACİZ TAR",
-   "alan": "KESINLESME",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T17:40:31"
-  },
-  {
-   "yazim": "Borçluya tebliğ",
-   "alan": "TEBLIG_TARIHI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T17:44:25",
-   "deger": "11.06.2026"
-  },
-  {
-   "yazim": "Alacak tutarı",
-   "alan": "BORC_MIKTARI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T17:48:48",
-   "deger": "6.642,04 TL"
-  },
-  {
-   "yazim": "Haciz Karar Tarihi",
-   "alan": "HACIZ_TARIHI",
-   "kaynak": "elle_duzeltme",
-   "zaman": "2026-10-28T21:32:48",
-   "deger": "03.08.2026",
-   "sozlukte": "HACIZ_KARAR_TARIHI"
-  },
-  {
-   "yazim": "Alacak kalemi",
-   "alan": "BORC_MIKTARI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T23:38:58",
-   "deger": "6.642,04 TL"
-  },
-  {
-   "yazim": "TEPLİGAT TARİHİ",
-   "alan": "TEBLIG_TARIHI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-28T23:39:45",
-   "deger": "20/08/2025"
-  },
-  {
-   "yazim": "Killer on the road",
-   "alan": "TAKIP_TARIHI",
-   "kaynak": "elle_atama",
-   "zaman": "2026-10-29T15:45:58",
-   "deger": "25.05.2026",
-   "ekran": "3452b31ce4e9f67e"
-  },
-  {
-   "yazim": "Açılış Tarihi",
-   "alan": "MUSTENIDAT",
-   "kaynak": "elle_duzeltme",
-   "zaman": "2026-10-29T15:46:10",
-   "deger": "Örnek 7",
-   "sozlukte": "TAKIP_TARIHI",
-   "ekran": "86cf48a9e40f0938"
+   "zaman": "2026-10-31T08:52:56"
   }
  ],
  "takyidat": []
