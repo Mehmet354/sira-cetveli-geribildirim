@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.8",
+ "surum": "1.45.9",
  "oneriler": [
   {
    "yazim": "Alacak kalemi",
@@ -239,6 +239,54 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-31T08:52:56"
+  },
+  {
+   "yazim": "MERKEZ İSTANBUA",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "ŞAKIR",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "XLIII.",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "BORÇ M İK'IARI",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "K'ESINLILŞXIE",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "BORÇLULAR",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "KONUSU...",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
+  },
+  {
+   "yazim": "Alıcı Adı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T17:38:13"
   }
  ],
  "takyidat": []
