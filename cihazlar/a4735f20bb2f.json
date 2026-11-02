@@ -5,7 +5,7 @@
  "surum": "1.45.9",
  "isletim_sistemi": "Windows-11-10.0.26100-SP0",
  "bilgisayar_izinleri": {},
- "son_gorulme": "2026-11-02T13:26:59",
+ "son_gorulme": "2026-11-02T13:33:23",
  "guvenlik_sira": 1793120388,
  "super_admin": true,
  "kullanicilar": [
@@ -23,6 +23,14 @@
    "aktif": true,
    "son_giris": "",
    "gecici_sifre": true,
+   "izinler": {}
+  },
+  {
+   "ad": "Misafir",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "2026-11-02T13:30:01",
+   "gecici_sifre": false,
    "izinler": {}
   }
  ],
