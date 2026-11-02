@@ -2,13 +2,61 @@
  "bicim": 1,
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
- "surum": "1.45.8",
+ "surum": "1.45.9",
  "oneriler": [
   {
    "yazim": "İlgi B",
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-10-30T10:51:40"
+  },
+  {
+   "yazim": "Araç Bilgileri",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "HACZİN DURUMU",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "Banka",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "Alıcı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "Mersis Numarası",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "MUHTIRAYA CEVAP VEREN",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "AÇIKLAMALAR",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
+  },
+  {
+   "yazim": "TAŞIT BİLGİSİ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-02T09:47:52"
   }
  ],
  "takyidat": []
