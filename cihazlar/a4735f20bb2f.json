@@ -5,7 +5,7 @@
  "surum": "1.45.10",
  "isletim_sistemi": "Windows-11-10.0.26100-SP0",
  "bilgisayar_izinleri": {},
- "son_gorulme": "2026-11-03T16:41:05",
+ "son_gorulme": "2026-11-03T16:43:01",
  "guvenlik_sira": 1793120388,
  "super_admin": true,
  "kullanicilar": [
@@ -13,7 +13,7 @@
    "ad": "admin",
    "rol": "yonetici",
    "aktif": true,
-   "son_giris": "",
+   "son_giris": "2026-11-03T16:42:32",
    "gecici_sifre": false,
    "izinler": {}
   },
