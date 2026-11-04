@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
- "surum": "1.45.9",
+ "surum": "1.45.12",
  "oneriler": [
   {
    "yazim": "İlgi B",
@@ -57,6 +57,14 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-11-02T13:33:40"
+  },
+  {
+   "yazim": "satış tarihi itibariyle vadesi geçmiş",
+   "alan": "BORC_MIKTARI",
+   "kaynak": "elle_atama",
+   "zaman": "2026-11-04T08:43:17",
+   "deger": "2.222,77-",
+   "ekran": "7bd6b0e985b0bfeb"
   }
  ],
  "takyidat": []
