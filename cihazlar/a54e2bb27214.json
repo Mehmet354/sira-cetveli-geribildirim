@@ -2,27 +2,27 @@
  "bicim": 1,
  "kimlik": "a54e2bb27214",
  "ad": "AB03400-0637",
- "surum": "1.39.0",
+ "surum": "1.45.13",
  "isletim_sistemi": "Windows-11-10.0.26100-SP0",
  "bilgisayar_izinleri": {},
- "son_gorulme": "2026-10-26T15:34:44",
- "guvenlik_sira": 1791964814,
+ "son_gorulme": "2026-11-05T15:45:20",
+ "guvenlik_sira": 1793120388,
  "super_admin": false,
  "kullanicilar": [
-  {
-   "ad": "admin2",
-   "rol": "yonetici",
-   "aktif": true,
-   "son_giris": "",
-   "gecici_sifre": false,
-   "izinler": {}
-  },
   {
    "ad": "Ali",
    "rol": "kullanici",
    "aktif": true,
    "son_giris": "",
    "gecici_sifre": true,
+   "izinler": {}
+  },
+  {
+   "ad": "Misafir",
+   "rol": "kullanici",
+   "aktif": true,
+   "son_giris": "2026-11-05T15:44:52",
+   "gecici_sifre": false,
    "izinler": {}
   }
  ],
