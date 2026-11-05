@@ -2,18 +2,18 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.13",
+ "surum": "1.45.14",
  "isletim_sistemi": "Windows-11-10.0.26200-SP0",
  "bilgisayar_izinleri": {},
- "son_gorulme": "2026-11-05T17:57:54",
+ "son_gorulme": "2026-11-05T21:49:45",
  "guvenlik_sira": 1793120388,
- "super_admin": true,
+ "super_admin": false,
  "kullanicilar": [
   {
    "ad": "admin",
    "rol": "yonetici",
    "aktif": true,
-   "son_giris": "2026-10-29T13:44:10",
+   "son_giris": "",
    "gecici_sifre": false,
    "izinler": {}
   },
@@ -21,8 +21,8 @@
    "ad": "Ali",
    "rol": "kullanici",
    "aktif": true,
-   "son_giris": "2026-10-27T17:37:30",
-   "gecici_sifre": false,
+   "son_giris": "",
+   "gecici_sifre": true,
    "izinler": {
     "cevap_ekle": false,
     "excel_disa": false,
@@ -35,14 +35,6 @@
     "takyidat_ayikla": false,
     "udf_uret": false
    }
-  },
-  {
-   "ad": "Misafir",
-   "rol": "kullanici",
-   "aktif": true,
-   "son_giris": "2026-10-29T13:25:05",
-   "gecici_sifre": false,
-   "izinler": {}
   }
  ],
  "guncelleme_hatasi": {},
