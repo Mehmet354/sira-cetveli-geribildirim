@@ -1,0 +1,19 @@
+{
+ "kimlik": "67f6174f853cc689",
+ "sha256": "67f6174f853cc68926efa060f72d15c30202b801a4b468d9a7b6f92f2bcaee3c",
+ "boyut": 17861,
+ "pdf_adi": "4irem.pdf",
+ "belge_turu": "TAŞINMAZ",
+ "sorunlar": {
+  "kurum_bulunamadi": 1,
+  "dosya_no_bulunamadi": 1,
+  "tarih_bulunamadi": 1,
+  "dusuk_guven": 1
+ },
+ "belirsiz_kayit": 1,
+ "hata": "",
+ "program_surumu": "1.45.13",
+ "bilgisayar": "AB03400-0637",
+ "kuyruk_zamani": "2026-11-05T15:54:51",
+ "klasor": "2026-11-05_AB03400-0637_67f6174f853cc689"
+}
