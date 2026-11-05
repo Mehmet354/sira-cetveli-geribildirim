@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.12",
+ "surum": "1.45.14",
  "oneriler": [
   {
    "yazim": "Alacak kalemi",
@@ -383,6 +383,192 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-11-04T20:06:43"
+  },
+  {
+   "yazim": "U S U L",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "tarafından haczedilmesi durumu",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Kordinatör",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Katılımcılar",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Süre",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "KAZANIMLAR",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "DERS AKIŞI",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "BEKLENTİLERİ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "edebilecek alacaklılar",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Kabul Tarihi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "İstisna",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Elektronik işlemler",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Başlaması ve bitmesi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Müddetlerin değiştirilmemesi",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Hacze iştirak derecelerinin teşkili",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Talep hakkı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Cetvel suretlerinin tebliği",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Cetvele itiraz",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Teminat karşılığı ödeme",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Borç ödemeden aciz vesikası",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Adi ve rehinli alacakların sırası",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Birinci sıra",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "İkinci sıra",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Üçüncü sıra",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Dördüncü sıra",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "aşağıdaki süreler hesaba katılmaz",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Sıralar arasındaki münasebet",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "İcrai hacizlere iştirak",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Amme alacaklarında rüçhan hakkı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "Amme idareleri arasında hacze iştirak",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
+  },
+  {
+   "yazim": "V - Ortak giderlerin teminatı",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-05T22:38:42"
   }
  ],
  "takyidat": []
