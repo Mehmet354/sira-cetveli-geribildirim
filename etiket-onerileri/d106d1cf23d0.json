@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "d106d1cf23d0",
  "ad": "DESKTOP-JU5GMI0",
- "surum": "1.45.14",
+ "surum": "1.45.18",
  "oneriler": [
   {
    "yazim": "Alacak kalemi",
@@ -581,6 +581,24 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-11-05T22:38:52"
+  },
+  {
+   "yazim": "Saymanlık",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-11T17:44:42"
+  },
+  {
+   "yazim": "TAŞINMAZLA",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-11T17:44:42"
+  },
+  {
+   "yazim": "İSTANBUL",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-11T17:44:42"
   }
  ],
  "takyidat": []
