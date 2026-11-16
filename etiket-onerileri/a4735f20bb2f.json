@@ -2,7 +2,7 @@
  "bicim": 1,
  "kimlik": "a4735f20bb2f",
  "ad": "ab03400-1897",
- "surum": "1.45.12",
+ "surum": "1.45.20",
  "oneriler": [
   {
    "yazim": "Araç Bilgileri",
@@ -71,6 +71,12 @@
    "alan": null,
    "kaynak": "tanimadi",
    "zaman": "2026-11-04T12:45:53"
+  },
+  {
+   "yazim": "EDİP ETMEDİĞİ",
+   "alan": null,
+   "kaynak": "tanimadi",
+   "zaman": "2026-11-16T09:25:03"
   }
  ],
  "takyidat": []
